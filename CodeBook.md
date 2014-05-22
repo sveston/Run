@@ -18,10 +18,10 @@ ACTIVITY 2
 tBodyAccmeanX 10  
   Mean Raw Acceleration Data in X axis  
   
-tBodyAccmeanY 10  
+tBodyAccmeanY 10   
   Mean Raw Acceleration Data in Y axis 
   
-tBodyAccmeanZ 10
+tBodyAccmeanZ 10  
   Mean Raw Acceleration Data in Z axis  
 
 tBodyAccstdX 10  
@@ -30,7 +30,7 @@ tBodyAccstdX 10
 tBodyAccstdY 10  
   Standard Deviation of Raw Acceleration Data in Y axis 
   
-tBodyAccstdZ 10
+tBodyAccstdZ 10  
   Standard Deviation of Raw Acceleration Data in Z axis
 
 tGravityAccmeanX 10  
@@ -48,7 +48,7 @@ tGravityAccstdX 10
 tGravityAccstdY 10  
   Standard Deviation of Raw Gravity Acceleration Data in Y axis 
   
-tGravityAccstdZ 10
+tGravityAccstdZ 10  
   Standard Deviation of Raw Gravity Acceleration Data in Z axis
 
 tBodyAccJerkmeanX 10  
@@ -57,158 +57,158 @@ tBodyAccJerkmeanX 10
 tBodyAccJerkmeanY 10  
   Mean Time Derived Acceleration Jerk Data in Y axis 
   
-tBodyAccJerkmeanZ 10
+tBodyAccJerkmeanZ 10  
   Mean Time Derived Acceleration Jerk Data in Z axis  
 
 tBodyAccJerkstdX 10  
   Standard Deviation of Time Derived Acceleration Jerk Data in X axis  
   
-tBodyAccJerkstdY 10  
+tBodyAccJerkstdY 10    
   Standard Deviation of Time Derived Acceleration Jerk Data in Y axis 
   
-tBodyAccJerkstdZ 10
+tBodyAccJerkstdZ 10  
   Standard Deviation of Time Derived Acceleration Jerk Data in Z axis  
 
-tBodyGyromeanX 10
+tBodyGyromeanX 10  
   Mean Raw Gyro Data in X axis  
   
-tBodyGyromeanY 10  
+tBodyGyromeanY 10   
   Mean Raw Gyro Data in Y axis 
   
-tBodyGyromeanZ 10
+tBodyGyromeanZ 10  
   Mean Raw Gyro Data in Z axis
 
-tBodyGyrostdX 10
+tBodyGyrostdX 10  
   Standard Deviation of Raw Gyro Data in X axis  
   
 tBodyGyrostdY 10  
   Standard Deviation of Raw Gyro Data in Y axis 
   
-tBodyGyrostdZ 10
+tBodyGyrostdZ 10  
   Standard Deviation of Raw Gyro Data in Z axis
   
-tBodyGyroJerkmeanX
+tBodyGyroJerkmeanX 10  
   Mean Time Derived Gyro Jerk Data in X axis  
   
-tBodyGyroJerkmeanY 10  
+tBodyGyroJerkmeanY 10    
   Mean Time Derived Gyro Jerk Data in Y axis 
   
-tBodyGyroJerkmeanZ 10
+tBodyGyroJerkmeanZ 10  
   Mean Time Derived Gyro Jerk Data in Z axis
 
-tBodyGyroJerkstdX 10
+tBodyGyroJerkstdX 10  
   Standard Deviation of Time Derived Gyro Jerk Data in X axis  
   
-tBodyGyroJerkstdY 10  
+tBodyGyroJerkstdY 10    
   Standard Deviation of Time Derived Gyro Jerk Data in Y axis 
   
-tBodyGyroJerkstdZ 10
+tBodyGyroJerkstdZ 10  
   Standard Deviation of Time Derived Gyro Jerk Data in Z axis
 
-tBodyAccMagmean
+tBodyAccMagmean 10  
    Mean Euclidean Norm Calculated Acceleration Magnitude in XYZ
 
-tBodyAccMagstd
+tBodyAccMagstd 10  
    Standard Deviation of Euclidean Norm Calculated Acceleration Magnitude in XYZ
    
-tGravityAccMagmean
+tGravityAccMagmean 10  
   Mean Euclidean Norm Calculated Gravity Acceleration Magnitude in XYZ
 
-tBodyAccMagstd
+tBodyAccMagstd 10  
    Standard Deviation of Euclidean Norm Calculated Gravity Acceleration Magnitude in XYZ
 
-tBodyAccJerkMagmean
+tBodyAccJerkMagmean 10  
   Mean Euclidean Norm Calculated Acceleration Jerk Magnitude in XYZ
 
-tBodyAccJerkMagstd
+tBodyAccJerkMagstd 10  
    Standard Deviation of Euclidean Norm Calculated Acceleration Jerk Magnitude in XYZ
 
-tBodyGyroMagmean
+tBodyGyroMagmean 10  
   Mean Euclidean Norm Calculated Gyro Magnitude in XYZ
 
-tBodyGyroMagstd
+tBodyGyroMagstd 10  
   Standard Deviation of Euclidean Norm Calculated Gyro Magnitude in XYZ
    
-tBodyGyroJerkMagmean
+tBodyGyroJerkMagmean 10  
   Mean Euclidean Norm Calculated Gyro Jerk Magnitude in XYZ
 
-tBodyGyroJerkMagstd
+tBodyGyroJerkMagstd 10  
   Standard Deviation of Euclidean Norm Calculated Gyro Jerk Magnitude in XYZ
 
-fBodyAccmeanX
+fBodyAccmeanX 10  
   Mean FFT Applied Acceleration in X axis
 
-fBodyAccmeanY
+fBodyAccmeanY 10  
   Mean FFT Applied Acceleration in Y axis
   
-fBodyAccmeanZ
+fBodyAccmeanZ 10  
   Mean FFT Applied Acceleration in Z axis
 
-fBodyAccstdX
+fBodyAccstdX 10  
   Standard Deviation of FFT Applied Acceleration in X axis
 
-fBodyAccstdY
+fBodyAccstdY 10  
   Standard Deviation of FFT Applied Acceleration in Y axis
   
-fBodyAccstdZ
+fBodyAccstdZ 10  
   Standard Deviation of Applied Acceleration in Z axis
 
-fBodyAccJerkmeanX
+fBodyAccJerkmeanX 10  
   Mean FFT Applied Acceleration Jerk in X axis  
   
-fBodyAccJerkmeanY
+fBodyAccJerkmeanY 10  
   Mean FFT Applied Acceleration Jerk in Y axis  
   
-fBodyAccJerkmeanZ
+fBodyAccJerkmeanZ 10  
   Mean FFT Applied Acceleration Jerk in Z axis  
 
-fBodyAccJerkstdX
+fBodyAccJerkstdX 10  
   Standard Deviation of FFT Applied Acceleration Jerk in X axis  
   
-fBodyAccJerkstdY
+fBodyAccJerkstdY 10  
   Standard Deviation of FFT Applied Acceleration Jerk in Y axis  
   
-fBodyAccJerkstdZ
+fBodyAccJerkstdZ 10  
   Standard Deviation of FFT Applied Acceleration Jerk in Z axis  
   
-fBodyGyromeanX
+fBodyGyromeanX 10  
   Mean FFT Applied Gyro in X axis 
 
-fBodyGyromeanY
+fBodyGyromeanY 10  
   Mean FFT Applied Gyro in Y axis 
   
-fBodyGyromeanZ
+fBodyGyromeanZ 10  
   Mean FFT Applied Gyro in Z axis 
   
-fBodyGyrostdX
+fBodyGyrostdX 10  
   Standard Deviation of FFT Applied Gyro in X axis 
 
-fBodyGyrostdY
+fBodyGyrostdY 10  
   Standard Deviation of FFT Applied Gyro in Y axis 
   
-fBodyGyrostdZ
+fBodyGyrostdZ 10  
   Standard Deviation of FFT Applied Gyro in Z axis 
   
-fBodyAccMagmean
+fBodyAccMagmean 10  
   Mean FFT Applied Acceleration Magnitude in XYZ 
 
-fBodyAccMagstd
+fBodyAccMagstd 10  
   Standard Deviation of FFT Applied Acceleration Magnitude in XYZ 
 
-fBodyAccJerkMagmean
+fBodyAccJerkMagmean 10  
   Mean FFT Applied Acceleration Jerk Magnitude in XYZ 
 
-fBodyAccJerkMagstd
+fBodyAccJerkMagstd 10  
   Standard Deviation of FFT Applied Acceleration Jerk Magnitude in XYZ 
 
-fBodyGyroMagmean
+fBodyGyroMagmean 10  
   Mean FFT Applied Gyro Magnitude in XYZ 
 
-fBodyAccJerkMagstd
+fBodyAccJerkMagstd 10  
   Standard Deviation of FFT Applied Gyro Magnitude in XYZ 
 
-fBodyGyroJerkMagmean
-  Mean FFT Applied Gyro Jerk Magnitude in XYZ 
+fBodyGyroJerkMagmean 10  
+  Mean FFT Applied Gyro Jerk Magnitude in XYZ  
 
-fBodyGyroJerkMagstd
+fBodyGyroJerkMagstd 10  
   Standard Deviation of FFT Applied Gyro Jerk Magnitude in XYZ 
