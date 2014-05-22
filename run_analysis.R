@@ -2,7 +2,7 @@
 tmpdir <- tempdir()
 temp <- tempfile()
 
-#Download the file
+#Download the file from the link provided
 setInternet2(TRUE)
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 file <- basename(url)
